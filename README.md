@@ -1,4 +1,4 @@
-# Hi there 👋, I'm **[Your Name]**
+# Hi there 👋, I'm **Toma**
 
 🚀 Passionate about building, learning, and sharing cool projects with the world.  
 💻 Currently working on: **dungeons.game**  
@@ -23,21 +23,4 @@
 - 🐦 [X (Twitter)](https://x.com/tsiklic1)  
 - 💼 [LinkedIn](linkedin.com/in/toma-šiklić-512887288)  
 - 🎙️ [Discord](https://discord.com/users/352508885556527105)  
-
----
-
-## 📌 Featured Projects
-- 🔹 [**Project Name**](https://github.com/YOURUSERNAME/ProjectName) — Short 1–2 line description.  
-- 🔹 [**Another Project**](https://github.com/YOURUSERNAME/AnotherProject) — Short 1–2 line description.  
-
----
-
-## ✨ Fun Facts
-- ⚡ I once [fun fact about yourself].  
-- 🎵 I enjoy [hobby/music].  
-- ☕ Coffee is my primary fuel.  
-
----
-
-## 💡 Quote I live by
-> *"Great things are done by a series of small things brought together."* – Vincent Van Gogh  
+ 
