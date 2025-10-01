@@ -1,16 +1,43 @@
-## Hi there 👋
-I am Toma, software engineer @solbound.dev
-<!--
-**tsiklic1/tsiklic1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm **[Your Name]**
 
-Here are some ideas to get you started:
+🚀 Passionate about building, learning, and sharing cool projects with the world.  
+💻 Currently working on: **dungeons.game**  
+🌱 Exploring: **Solana**  
+📖 Always open to learning something new!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack & Tools
+- **Languages:** [Python, JavaScript, Go]  
+- **Frameworks:** [React, Next.js, Nest.js]  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=tsiklic1&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsiklic1&layout=compact)
+
+---
+
+## 🌍 Connect with me
+- 🐦 [X (Twitter)](https://x.com/tsiklic1)  
+- 💼 [LinkedIn](linkedin.com/in/toma-šiklić-512887288)  
+- 🎙️ [Discord](https://discord.com/users/352508885556527105)  
+
+---
+
+## 📌 Featured Projects
+- 🔹 [**Project Name**](https://github.com/YOURUSERNAME/ProjectName) — Short 1–2 line description.  
+- 🔹 [**Another Project**](https://github.com/YOURUSERNAME/AnotherProject) — Short 1–2 line description.  
+
+---
+
+## ✨ Fun Facts
+- ⚡ I once [fun fact about yourself].  
+- 🎵 I enjoy [hobby/music].  
+- ☕ Coffee is my primary fuel.  
+
+---
+
+## 💡 Quote I live by
+> *"Great things are done by a series of small things brought together."* – Vincent Van Gogh  
