@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Toma, software engineer @solbound.dev
 <!--
 **tsiklic1/tsiklic1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
